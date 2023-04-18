@@ -1,0 +1,33 @@
+.main{
+    background-image: url("./Cup.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 1000px;
+    height: 400px;
+}
+.TA,.TB{
+    display: inline-block;
+    color: red;
+}
+.duplicate{
+    width: 500px;
+    height: 200px;
+    /* border-style: solid; */
+    padding: 100px;
+    margin-left: 250px;
+}
+.Team-B{
+    text-align: right;
+    margin-top: -120px;
+    margin-left:-100px;
+} 
+ /* .TA{
+    text-align: left;
+    width: 50%;
+}*/
+.name_2{
+    margin-left:-110%;
+    /* border-style:dotted; */
+    width: 200%;
+    
+}
